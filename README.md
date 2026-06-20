@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Isaac Macharia
 
-<!--
-**machariaizo/machariaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning AI engineering at WE CAN ACADEMY.
+- I'm interested in AI engineering, exploring the foundations of artificial intelligence, and technology.
+- I'm looking to collaborate on beginner-friendly AI and open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python
+- AI and Machine Learning
+- Data Science fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+-AI learning projects — building my foundation in artificial intelligence and programming.
+
+## How to Reach Me
+- Email: machariaizo.im@gmail.com
+- LinkedIn: linkedin.com/in/isaac-macharia-muguro
